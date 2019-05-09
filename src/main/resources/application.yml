@@ -1,0 +1,4 @@
+hsreplay:
+  replays:
+    download:
+      scheduler: "*/20 * * * * * "
